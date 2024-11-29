@@ -1,1 +1,41 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>tetrazzini</title>
+  <h1>Odin Recipes</h1>
+<a href="Odin.html" target="_self">
+	Ir para a página inicial!</a>
+  <article>
+  <img src="tetrazzini.jpg" />
+  </article>
+<body>
+Aproveite as sobras do seu peru com esta receita de tetrazzini de peru aprovada pela cozinha experimental. 
+</body>
+<h1>Ingredientes do Tetrazzini de Peru</h1>
+<ul>
+		<li><strong>Macarrão</strong>: Esta receita de tetrazzini de peru começa com linguine.</li>	
+		<li><strong>Manteiga</strong>: Cozinhe os vegetais na manteiga com sal. </li>
+		<li><strong>Legumes</strong>: Você precisará de cogumelos, uma cebola e aipo. </li>
+		<li><strong>Tempeiros</strong>: Tempere o tetrazzini de peru com alho, tempero italiano e pimenta vermelha moída. </li>
+		<li><strong>Vinho Branco</strong>: Se você tiver vinho branco à mão, pode usá-lo para deglaçar a panela.  </li>
+		<li><strong>Peru</strong>: Claro, você vai precisar de peru cozido! </li>
+		<li><strong>Sopa enlatada</strong>e <strong>creme de leite</strong>: O rico e cremoso tetrazzini de peru pede creme condensado de cogumelos enlatado e creme de leite. </li>
+		<li><strong>Caldo:Use</strong>caldo de galinha comprado em loja ou feito em casa. </li>
+		<li><strong>parmesão</strong>e <strong>Amêndoas</strong>: Cubra cada tigela de tetrazzini de peru com queijo parmesão e amêndoas laminadas. </li>
+  </ul>
+  <h2><strong>Como fazer peru tetrazzini</strong></h2>
+  <body>
+  Você encontrará a receita completa e passo a passo abaixo — mas aqui está uma 
+  breve visão geral do que você pode esperar ao fazer tetrazzini de peru caseiro: 
+  </body>
+  <ol>
+	<li>Ferva e escorra o macarrão, depois transfira-o para uma assadeira preparada. </li>
+	<li>Cozinhe os vegetais na manteiga e adicione os temperos.</li>
+	<li>Desengordure a panela com vinho, se estiver usando. </li>
+	<li>Misture o peru, a sopa, o creme de leite e o caldo. Cozinhe até ficar quente e borbulhante. </li>
+	<li>Coloque a mistura de peru sobre o macarrão e polvilhe com queijo e amêndoas.</li>
+	<li>Asse o tetrazzini de peru até ficar quente e borbulhante. </li>
+  </ol>
+</head>  
+</html>
